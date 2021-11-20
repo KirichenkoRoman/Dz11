@@ -1,0 +1,26 @@
+
+#footer{
+    padding-left: 30px; 
+
+    height: 70px;
+    width: 11%;
+
+    border-radius: 100px;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+
+}
+
+h1{
+    color: black;
+}
+h3{
+    color: black
+}
+p{
+    color: black ;
+}  
+body{
+    background-color: yellow;
+}
